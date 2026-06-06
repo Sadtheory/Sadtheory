@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cynthia Kraft
-- 👀 I’m studying Computing in Science in Hamburg and working part-time as an Electrical Constructor.
+- 👀 I’m studying Computing in Science in Hamburg 
 - 🌱 I’m interested in Software Engineering, Machine Learning, and Backend Development.
 - 🌱 I’m currently expanding my skills in these areas, including Python, C++, and more.
 - 💞️ I’m looking for exciting projects and professional connections on a technical level.
