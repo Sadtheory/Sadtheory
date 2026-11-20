@@ -2,7 +2,7 @@
 
 I'm a Computing in Science student at the University of Hamburg, graduating in spring 2027. I'm currently writing my bachelor's thesis on the implementation and application of Green's function methods for radical systems in quantum chemistry, using Python and numerical methods.
 
-Starting in December 2026, I'm working as a working student at HPP Architekten, developing an AI agent for automated bill of quantities (LV) creation using Python and LangChain.
+Starting in November 2026, I'm working as a working student at HPP Architekten, developing an AI agent for automated bill of quantities (LV) creation using Python and LangChain.
 
 **What I'm focused on:**
 - Data Science and numerical simulation
